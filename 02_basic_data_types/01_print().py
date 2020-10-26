@@ -1,0 +1,7 @@
+print('Hello World!')
+print('This is how we print on the screen.')
+print()
+print('What just happened?')
+print('This is a message on this line.', end=' ')
+print('This is a message on the same line.')
+print('Learning Python is FUN!')
